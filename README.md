@@ -9,7 +9,7 @@ The LSTM architecture consists of a cell state, which is a long-term memory that
 # Advantages
 The shift invariant technique for pose estimation is highly accurate and efficient, resulting in more accurate activity recognition.
 
-The use of machine learning algorithms for activity recognition allows for the system to adapt to different activities and to learn from new data, resulting in better performance over time.
+The use of machine learning algorithms for activity recognition allows for the system to adapt to different activities and to learn from new data, resulting in better performance over time. 
 
 The use of a single RGB camera for both pose estimation and activity recognition makes the system more affordable and accessible compared to traditional approaches that require multiple cameras or specialized hardware.
 
